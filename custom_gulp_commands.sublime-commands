@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Gulp: Kill and Delete Cache",
+    "command": "gulp_delete_cache_on_kill"
+  }
+]
